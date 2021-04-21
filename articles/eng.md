@@ -125,7 +125,7 @@ While for the single ice cream information it gives this:
 }
 ```
 
-In this case, it reduces database and network loads several times.
+In this case, it reduces database and network loads several times for the list view.
 
 The whole working project can be found by [link](https://github.com/roman-right/ice-cream-store)
 
