@@ -1,4 +1,4 @@
-Today I want to introduce you to a new [Beanie](https://github.com/roman-right/beanie) feature. MongoDB projections are supported now. It helps to reduce database load and makes your services more efficient.
+Today I want to introduce to you a new [Beanie](https://github.com/roman-right/beanie) feature. MongoDB projections are supported now. It helps to reduce database load and makes your services more efficient.
 
 How does it work? You can set up two document models for the same collection:
 - A big one - for the regular operations
