@@ -8,7 +8,7 @@ Beanie is using MongoDB projections when it takes the data from the database. It
 
 I will show on small FastAPI service example:
 
-This is ice cream store api. It has an Ice Cream entity. To create and get single ice cream I will use the long model:
+This is an ice cream store api. It has an Ice Cream entity. To create and get single ice cream I will use the long model:
 
 ```python
 class Nutrition(BaseModel):
